@@ -21,7 +21,7 @@ A production-grade **Hybrid Retrieval-Augmented Generation (RAG)** system combin
 
 ## Architecture
 
-![System Architecture](assets/architecture.png)
+![System Architecture](assets/Architecture.png)
 
 ## How to Run
 
