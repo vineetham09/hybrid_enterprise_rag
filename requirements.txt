@@ -1,0 +1,39 @@
+# Core
+pandas
+numpy
+pyyaml
+tqdm
+
+#LLM
+groq
+
+# Vector DB & Embeddings
+chromadb
+sentence-transformers
+
+# LangChain
+langchain
+langchain-community
+langchain-text-splitters
+rank-bm25
+
+# ML / Fine-tuning
+torch
+torchvision
+torchaudio
+transformers
+datasets
+accelerate
+mlflow
+scikit-learn
+matplotlib
+seaborn
+spacy
+
+# Serving
+fastapi
+uvicorn
+streamlit
+
+# Utils
+python-dotenv
