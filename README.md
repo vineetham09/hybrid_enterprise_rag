@@ -1,4 +1,4 @@
-# Lumora Analytics - Hybrid Enterprise RAG System
+# Hybrid Enterprise RAG System
 
 A production-grade **Hybrid Retrieval-Augmented Generation (RAG)** system combining structured and unstructured data with ML-powered routing.
 
